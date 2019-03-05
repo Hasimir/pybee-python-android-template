@@ -1,0 +1,8 @@
+*.pyc
+*~
+.*.sw[op]
+bin
+gen
+local
+local.properties
+.gradle
